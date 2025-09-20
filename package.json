@@ -1,6 +1,6 @@
 {
   "name": "adgate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Robust anti-adblock solution for modern websites. Lightweight, undetectable, and effective.",
   "main": "js/lib.js",
   "files": [
