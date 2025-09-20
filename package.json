@@ -1,0 +1,29 @@
+{
+  "name": "adgate",
+  "version": "1.0.1",
+  "description": "Robust anti-adblock solution for modern websites. Lightweight, undetectable, and effective.",
+  "main": "js/lib.js",
+  "files": [
+    "js/lib.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikkopy/adgate.git"
+  },
+  "keywords": [
+    "adblock",
+    "anti-adblock",
+    "adblock-detection",
+    "ublock",
+    "ads",
+    "protection",
+    "javascript",
+    "frontend"
+  ],
+  "author": "kikkopy <https://github.com/kikkopy>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kikkopy/adgate/issues"
+  },
+  "homepage": "https://github.com/kikkopy/adgate#readme"
+}
